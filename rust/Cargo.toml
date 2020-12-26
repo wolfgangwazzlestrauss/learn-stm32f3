@@ -1,0 +1,7 @@
+[package]
+name = "stm32f3"
+version = "0.0.1"
+authors = ["Macklan Weinstein <wolfgang.wazzle.strauss@gmail.com>"]
+edition = "2018"
+
+[dependencies]
