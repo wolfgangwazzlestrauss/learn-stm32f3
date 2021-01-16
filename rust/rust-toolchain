@@ -1,0 +1,11 @@
+# Rust toolchain, components, and target configuration file.
+
+[toolchain]
+channel = "stable"
+components = [
+    "llvm-tools-preview",
+    "rust-src",
+]
+targets = [
+    "thumbv7em-none-eabihf",
+]

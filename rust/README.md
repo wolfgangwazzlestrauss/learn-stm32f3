@@ -8,3 +8,8 @@ board with the Rust programming language. Follows the discovery
 ## Resources
 
 - Heap allocator for Cortex-M: https://github.com/rust-embedded/alloc-cortex-m
+
+
+```
+openocd -f interface/stlink.cfg -f target/stm32f3x.cfg
+```
